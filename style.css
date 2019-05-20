@@ -1,0 +1,21 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: black;
+}
+h1 {
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+a {
+	color: green;
+	padding-left: 540px;
+}
+.Password {
+	padding-bottom: 20px;
+}
+.form-control {
+	margin-bottom: 20px;
+	padding: 30px;
+}
